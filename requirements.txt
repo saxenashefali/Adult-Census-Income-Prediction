@@ -1,0 +1,9 @@
+anvil-uplink==0.3.40
+catboost==0.26.1
+imbalanced-learn==0.8.0
+imblearn==0.0
+sklearn==0.0
+pandas==1.3.3
+numpy==1.21.2
+Flask==2.0.2
+gunicorn==20.1.0
