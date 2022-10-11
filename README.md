@@ -73,7 +73,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Appendix
 
-Link for youtube video regarding description of the project : https://youtu.be/KFZXXu3OSSk
+Link for youtube video regarding description of the project : https://youtu.be/b9UdJ8RHMvI
 
 Link for App Documentation : https://github.com/saxenashefali/Adult-Census-Income-Prediction/tree/master/App%20Documents
 
